@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #37A647 ;
+    margin: 18px;
+
+}
+#paleta{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    gap: 20px;
+    background: #9d8dac;
+    padding: 22px 36px;
+    border: 1px solid black;
+    border-radius: 14px;
+
+
+}
+
+.cor{
+    width: 80px;
+    height: 250px;
+    padding: 12 px;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
